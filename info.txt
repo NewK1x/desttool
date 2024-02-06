@@ -1,0 +1,17 @@
+fullname:Ерастов Максим Феодосивич
+number:+7 (950) 836-88-81
+operator:Tele2
+data:16.10.1996
+email:makson1999@rambler.ru
+ip:140.31.132.83
+region_ip:253.47.225.117, SARATOV Tele2
+Possibledevices:(Android), Windows(Deskopt-13Ld) 64x
+adress:Россия, г. Саратов, Победы ул., д. 18 кв.85
+passport: 63 09 303559
+inn:681113756710
+snils:78743265756
+tguser:@Maksonus9
+tgid:6055581224
+vk:none
+whatsapp:https://wa.me/7-950-836-88-81
+PossibleLogin:Makson, maxim19, max29031, Maxxx134

@@ -1,0 +1,8 @@
+chcp 65001
+javac LoopMenu.java
+javac MenuOption.java
+javac Menu.Controler.java
+javac TextUI.java
+javac TextBox.java
+java -Dfile.encoding=UTF-8 LoopMenu.java
+pause
